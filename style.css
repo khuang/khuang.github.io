@@ -5,14 +5,14 @@
 }
 
 :root {
-  --bg: #0d0d0d;
-  --text: #e8e8e8;
-  --muted: #666;
-  --dim: #888;
-  --pink: #ff6eb4;
-  --pink-dim: #c44d88;
-  --green: #39ff85;
-  --border: #222;
+  --bg: #0a0e14;
+  --text: #cdd9e5;
+  --muted: #546e7a;
+  --dim: #7a94a6;
+  --pink: #7ec8e3;
+  --pink-dim: #4a8fa8;
+  --green: #a8d8f0;
+  --border: #1e2d3d;
   --font: 'JetBrains Mono', 'Courier New', monospace;
 }
 
